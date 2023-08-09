@@ -1,0 +1,3 @@
+icon: streamline-emojis:green-book
+navigation.redirect: /user-manual/login-freeauth
+titleTemplate: '%s · User Manual'

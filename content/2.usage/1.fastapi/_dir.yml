@@ -1,0 +1,2 @@
+navigation.redirect: /fastapi/dependencies
+titleTemplate: '%s · FastAPI Extension Usage'
