@@ -1,3 +1,4 @@
 icon: streamline-emojis:green-book
-navigation.redirect: /user-manual/login-freeauth
-titleTemplate: '%s · User Manual'
+navigation.redirect: /user-manual/freeauth-login
+titleTemplate: '%s · 用户手册'
+title: 用户手册
