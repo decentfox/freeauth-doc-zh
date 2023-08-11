@@ -23,5 +23,9 @@ export default defineNuxtConfig({
         }
       }
     }
+  },
+
+  dir: {
+    public: 'static'
   }
 });

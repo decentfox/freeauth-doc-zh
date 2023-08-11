@@ -4,7 +4,12 @@ export default defineAppConfig({
     description: '一步到位，定制您的角色权限管理中台',
     image: '/cover.png', // TODO: replace cover image
     socials: {
-      github: 'decentfox/freeauth-api'
+      github: 'decentfox/freeauth-api',
+      freeauth: {
+        label: 'English',
+        icon: 'icon-park-outline:english',
+        href: 'https://freeauth.decentfox.com'
+      }
     },
     github: {
       dir: 'content',
