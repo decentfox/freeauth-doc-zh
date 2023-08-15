@@ -1,7 +1,7 @@
 export default defineAppConfig({
   docus: {
     title: 'FreeAuth',
-    description: '一步到位，定制您的角色权限管理中台',
+    description: '自带身份认证与基于角色的访问控制的开源库',
     image: '/cover.png',
     socials: {
       github: 'decentfox/freeauth-api',
