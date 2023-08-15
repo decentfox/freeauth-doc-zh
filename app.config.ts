@@ -2,7 +2,7 @@ export default defineAppConfig({
   docus: {
     title: 'FreeAuth',
     description: '一步到位，定制您的角色权限管理中台',
-    image: '/cover.png', // TODO: replace cover image
+    image: '/cover.png',
     socials: {
       github: 'decentfox/freeauth-api',
       freeauth: {
@@ -32,6 +32,16 @@ export default defineAppConfig({
       showLinkIcon: true,
       exclude: [],
       fluid: true
+    },
+    footer: {
+      credits: {
+        icon: 'IconDocus',
+        text: 'Powered by DecentFoX',
+        href: 'https://decentfox.com'
+      },
+      textLinks: [],
+      iconLinks: [],
+      fluid: false
     }
   }
 });
