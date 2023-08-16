@@ -1,4 +1,8 @@
-<img align="center" src="public/logo.png"/><br/>
+<img src="static/logo.png"/>
+
+<p>
+    <em>Make authentication and authorization easy and free.</em>
+</p>
 
 # Documentation of [FreeAuth](https://github.com/decentfox/freeauth-api) in Chineses.
 
